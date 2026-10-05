@@ -6,5 +6,9 @@
   {
     "package": "veida",
     "url": "https://github.com/hanshs474/veida-r"
+  },
+  {
+    "package": "saymaker",
+    "url": "https://github.com/hanshs474/saymaker-r"
   }
 ]
