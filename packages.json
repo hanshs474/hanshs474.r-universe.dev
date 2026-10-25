@@ -14,5 +14,9 @@
   {
     "package": "emaki",
     "url": "https://github.com/hanshs474/emaki-r"
+  },
+  {
+    "package": "movoa",
+    "url": "https://github.com/hanshs474/movoa-r"
   }
 ]
