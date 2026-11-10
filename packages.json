@@ -18,5 +18,9 @@
   {
     "package": "movoa",
     "url": "https://github.com/hanshs474/movoa-r"
+  },
+  {
+    "package": "aigifmaker",
+    "url": "https://github.com/hanshs474/aigifmaker-r"
   }
 ]
