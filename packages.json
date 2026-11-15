@@ -22,5 +22,9 @@
   {
     "package": "aigifmaker",
     "url": "https://github.com/hanshs474/aigifmaker-r"
+  },
+  {
+    "package": "freeimagetovideo",
+    "url": "https://github.com/hanshs474/fitv-r"
   }
 ]
